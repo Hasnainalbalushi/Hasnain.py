@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
-#made by coding Hasnain Albalushi 
+#made by coding jutt badshah
 try:
     import requests
 except ImportError:
@@ -17,7 +17,7 @@ except ImportError:
     os.system('pip install bs4')
 try:
     import os, sys, time, datetime, re, bs4, json, random, requests, subprocess, platform, uuid, string, base64
-    from concurrent.futures import ThreadPoolExecutor as Hasnain Albalushi 
+    from concurrent.futures import ThreadPoolExecutor as JuttBadshah
     from datetime import datetime
     from bs4 import BeautifulSoup
     from requests.exceptions import ConnectionError
@@ -38,11 +38,11 @@ logo4 = """
 \x1b[1;96m         {|} {|}  {|}    {|}       {|}
 \x1b[1;94m     {|}{|}   {|}{|}     {|}       {|}
 \x1b[1;93m
-\x1b[1;92m         Hasnain Albalushi~
+\x1b[1;92m         Jutt Badshah Brand~
 \x1b[1;91m-----------------------------------------------
-\x1b[1;97m> Author : Hasnain Albalushi 
-\x1b[1;97m> Github : Hasnain 
-\x1b[1;97m> Facebok: Hasnain 
+\x1b[1;97m> Author : Jutt Badshah
+\x1b[1;97m> Github : https://github.com/SHOOTER-MAKER
+\x1b[1;97m> Facebok: Jutt Badshah
 \x1b[1;97m> Version: 2fa + pass change
 \x1b[0;97m-----------------------------------------------"""
 ses = requests.Session()
